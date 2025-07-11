@@ -1,4 +1,2 @@
 print("Elias will be the future of memecoins")
-print("hello")
-print("bye")
-print("ty")
+print("this is the newly updated main file")
